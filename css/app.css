@@ -75,4 +75,40 @@ select {
 }
 
 /* 👇 Start custom code 👇 */
+h1 {
+    
+    font-family: 'Roboto Slab', serif;
+    font-size: 40pt;
+    color: bisque;
+}
+
+h2 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 20pt; 
+    color:beige;
+}
+
+
+body {
+    background-color: black;
+}
+
+p {
+    font-size: 15pt;
+    color: orange;
+}
+
+img {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+h3 {
+    position: absolute;
+    top: 500px;
+    right: 0px;
+    font-size: 15pt;
+    color: chocolate;
+}
 
