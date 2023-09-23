@@ -112,3 +112,16 @@ h3 {
     color: chocolate;
 }
 
+
+@media (min-width:320px) and (max-width: 768px) {
+  #body {
+    float: none;
+    width: 100%;
+
+  .body {
+    max-width: fit-content;
+  }
+}
+}
+
+
